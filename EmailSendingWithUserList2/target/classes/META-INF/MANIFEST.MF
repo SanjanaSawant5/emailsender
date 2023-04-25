@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: WebDev
+Build-Jdk: 19.0.1
+Implementation-Title: EmailSendingWithUserList
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.listsentmail
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
